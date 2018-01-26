@@ -7,3 +7,6 @@ Another example : The input is "test", "test", "foo","foo","somethingelse". Then
 
 It may cause a little bit of performance problem.
 Don't call the function every frame. Use it only when neccessary.
+
+
+If you have any questions, feel free to contact me at lihaoyu2678@gmail.com. I would be glad to help you.
